@@ -1,0 +1,51 @@
+{
+  "providerName": "JamKing",
+  "language": "en-US",
+  "lastUpdated": "2020-03-16T03:41:32.125Z",
+  "movies": [
+    {
+      "id": "morbe34b64ea4ca281dc00001d0f23f1",
+      "title": "Night Of The Living Dead",
+      "shortDescription": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a bloodthirsty, flesh-eating breed of monsters who are ravaging the East Coast of the United States.",
+      "thumbnail": "https://ia800904.us.archive.org/28/items/HoMovie1/ho%20movie%201.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "movies",
+        "history",
+        "horror",
+        "scary",
+        "adventure"
+      ],
+      "releaseDate": "1968-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T00:14:54.431Z",
+        "captions": [],
+        "duration": 5962,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:44",
+          "00:16:20",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:55:00",
+          "01:02:00",
+          "01:09:00",
+          "01:16:00",
+          "01:23:00",
+          "01:31:00",
+          "01:38:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800904.us.archive.org/18/items/H1NightOfTheLivingDead/h-1%20Night%20of%20the%20Living%20Dead.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
